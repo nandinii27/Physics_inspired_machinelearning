@@ -1,9 +1,8 @@
-# Physics_inspired_machinelearning
-Creating projects where maths, physics, and ML intersect to form a beautiful cacophony
+
 # Physics-ML Theory Implementation Notebooks
 
 ## Overview
-10 self-contained notebooks testing physics-inspired machine learning theories with executable code, visualizations, and benchmarks.
+Creating projects where maths, physics, and ML intersect to form a beautiful cacophony
 
 ### 01_heavy_tailed_sgd_analyzer
 Tracks gradient statistics during training to detect Lévy α-stable distributions and correlate tail exponents with generalization gaps during phase transitions.
